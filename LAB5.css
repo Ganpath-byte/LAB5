@@ -1,0 +1,70 @@
+.box {
+    height: 200px;
+    width: 300px;
+    background-color: lightgray;
+}
+
+.responsive-box {
+    width: 50vw;
+    height: 50vh;
+    background-color: lightblue;
+}
+
+.padded-text {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.custom-padding {
+    padding: 10px 20px;
+    background-color: #e0e0e0;
+}
+
+.border-box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+}
+
+.rounded-border {
+    width: 100px;
+    height: 100px;
+    border: 3px dotted red;
+    border-radius: 15px;
+}
+
+.margin-text {
+    margin: 30px;
+}
+
+.custom-margin {
+    margin: 25px 50px;
+}
+
+.inline-element {
+    display: inline;
+}
+
+.block-element {
+    display: block;
+}
+
+.inline-bloack-element {
+    display: inline-block;
+}
+
+.hidden-element {
+    display: none;
+}
+
+.visible-element {
+    display: visible;
+}
+
+.invisible-element {
+    display: hidden;
+}
+
+.tranparent-box {
+    background-color: rgba(100, 11, 10, 0.5);
+}
